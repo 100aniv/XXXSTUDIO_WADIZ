@@ -1,0 +1,42 @@
+# XXX STUDIO / WADIZ AI-readable repository
+# The NAS remains the authoritative binary archive.
+
+# Raw source archive: indexed in AI_CONTEXT/ASSET_MANIFEST.csv, not committed.
+01_INPUT(입력_원본)/
+99_ARCHIVE(보관_폐기)/
+
+# Generated/final binaries are not source context.
+03_OUTPUT(최종_산출물)/
+*.pptx
+*.pdf
+*.psd
+*.psb
+*.ai
+*.eps
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.xlsx
+*.xls
+*.inspect.ndjson
+*.html
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Only the reviewed, intentionally selected AI visual references are committed.
+!AI_CONTEXT/visuals/*.png
+!AI_CONTEXT/visuals/*.jpg
+!AI_CONTEXT/visuals/*.jpeg
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

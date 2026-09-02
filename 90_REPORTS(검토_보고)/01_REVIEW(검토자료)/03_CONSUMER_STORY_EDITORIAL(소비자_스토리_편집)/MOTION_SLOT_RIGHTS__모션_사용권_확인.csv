@@ -1,0 +1,6 @@
+Slot_ID,Section,Asset_ID,Duration_Candidate,Intended_Cut,Story_Role,Commercial_Clearance,Rights_Basis,Public_Status,Required_Check,Notes
+MS-01,02-B INVITATION BRIDGE,AST-0627,2-5 sec,"Ticket Window → Seoul","KOREA TOUR에서 서울로 진입",HOLD,THIRD-PARTY SOURCE,NOT APPROVED,"촬영·음원·QR·날짜·시즌","완성본 통째 사용 확정 금지; 정지 프레임·무음 반복 후보"
+MS-02,04 DAY TO NIGHT TRANSITION,AST-0628,2-5 sec,"DAY → NIGHT contrast","시간·장면 전환",HOLD,THIRD-PARTY SOURCE,NOT APPROVED,"촬영·인물·음원·자막","검증된 좌표와 연결; 미검증 숫자 노출 금지"
+MS-03,03 THE DAY OF SEOUL,AST-0629,2-5 sec,"DAY scene → product","DAY 도입·제품 귀환",HOLD,THIRD-PARTY SOURCE,NOT APPROVED,"촬영·제품·음원·QR·날짜","현재 SKU Match 필요"
+MS-04,05 THE NIGHT OF SEOUL,AST-0630,2-5 sec,"NIGHT scene → product","NIGHT 도입·제품 귀환",HOLD,THIRD-PARTY SOURCE,NOT APPROVED,"촬영·제품·음원·QR·날짜","현재 SKU Match 필요"
+MS-05,11 INVITATION / RE-PACKAGING,AST-0631,2-5 sec,"Invitation ↔ Package bookend","초반 초대와 후반 물성 귀결",HOLD,THIRD-PARTY SOURCE,NOT APPROVED,"실제 제공 구성·Package·음원·자막·QR","PHASE 03B 포함범위 확정 전 실제 제공처럼 표현 금지"
